@@ -1,6 +1,6 @@
 # Breast Cancer Classification — Data Mining (CC19)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aaapriellee_04/data-mining-breast-cancer/blob/main/breast_cancer_classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aaapriellee04/data-mining-breast-cancer/blob/main/breast_cancer_classification.ipynb)
 
 ---
 
