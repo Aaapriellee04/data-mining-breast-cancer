@@ -1,10 +1,10 @@
-# 🔬 Breast Cancer Classification — Data Mining (CC19)
+# Breast Cancer Classification — Data Mining (CC19)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/breast_cancer_classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aaapriellee_04/data-mining-breast-cancer/blob/main/breast_cancer_classification.ipynb)
 
 ---
 
-## 📌 About This Project
+## About This Project
 
 This notebook demonstrates a complete **machine learning classification pipeline** using the Breast Cancer Wisconsin (Diagnostic) dataset from `sklearn`.
 
@@ -13,7 +13,7 @@ This notebook demonstrates a complete **machine learning classification pipeline
 
 ---
 
-## 🧠 What's Inside
+## What's Inside
 
 | Step | Description |
 |------|-------------|
@@ -28,7 +28,7 @@ This notebook demonstrates a complete **machine learning classification pipeline
 
 ---
 
-## 🤖 Models Used
+## Models Used
 
 - Logistic Regression
 - Decision Tree
@@ -38,7 +38,7 @@ This notebook demonstrates a complete **machine learning classification pipeline
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 No installation needed — all libraries are pre-installed in Google Colab.
 
@@ -50,7 +50,7 @@ from sklearn.datasets import load_breast_cancer
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Click the **Open in Colab** badge above
 2. Click **Runtime → Run all**
